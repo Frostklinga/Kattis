@@ -1,0 +1,5 @@
+{
+    "mono-debug.exceptionOptions": {
+        "System.Exception": "always"
+    }
+}

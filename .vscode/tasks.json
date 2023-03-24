@@ -1,0 +1,33 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Mono build",
+            "command": "csc",
+            "type": "shell",
+            "args": [
+                "${relativeFile}"
+            ],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Mono launch (attach)",
+            "type": "shell",
+            "command": "mono",
+            "args": [
+                "--debug",
+                "--debugger-agent=transport=dt_socket,server=y,address=127.0.0.1:55555",
+                "${relativeFile}"
+            ],
+            "problemMatcher": [
+                "$msCompile"
+            ]
+        }
+    ]
+}

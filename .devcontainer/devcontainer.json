@@ -1,0 +1,31 @@
+//devcontainer.json
+{
+  "name": "Mono compiler",
+  // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "extensions": [
+      "ms-vscode.mono-debug"
+    ],
+    "settings": {},
+    "vscode": {
+      "extensions": [
+        "csharpier.csharpier-vscode",
+        "ms-dotnettools.csharp"
+      ]
+    }
+  },
+  // Features to add to the dev container. More info: https://containers.dev/features.
+  // "features": {},
+  "remoteUser": "root",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {
+      "installDirectlyFromGitHubRelease": true,
+      "version": "latest"
+    },
+    // "ghcr.io/devcontainers-contrib/features/wget-apt-get:1": {},
+    "ghcr.io/akhildevelops/devcontainer-features/apt:0": {}
+  }
+}
