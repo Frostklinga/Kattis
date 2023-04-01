@@ -5,8 +5,12 @@
             "name": "Attach to Mono",
             "request": "attach",
             "type": "mono",
-            "address": "localhost",
-            "port": 55555
+            // "preLaunchTask": "monodebug",
+            // {
+            //     "MonoDebug": "monodebug"
+            // },
+            "address": "127.0.0.1",
+            "port": 55550
         }
     ]
 }

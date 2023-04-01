@@ -1,0 +1,15 @@
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\bin\Debug\net7.0\BuildingHighways.exe
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\bin\Debug\net7.0\BuildingHighways.deps.json
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\bin\Debug\net7.0\BuildingHighways.runtimeconfig.json
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\bin\Debug\net7.0\BuildingHighways.dll
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\bin\Debug\net7.0\BuildingHighways.pdb
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\BuildingHighways.csproj.AssemblyReference.cache
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\BuildingHighways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\BuildingHighways.AssemblyInfoInputs.cache
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\BuildingHighways.AssemblyInfo.cs
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\BuildingHighways.csproj.CoreCompileInputs.cache
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\BuildingHighways.dll
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\refint\BuildingHighways.dll
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\BuildingHighways.pdb
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\BuildingHighways.genruntimeconfig.cache
+C:\Users\alkal\source\repos\Kattis\BuildingHighways\obj\Debug\net7.0\ref\BuildingHighways.dll

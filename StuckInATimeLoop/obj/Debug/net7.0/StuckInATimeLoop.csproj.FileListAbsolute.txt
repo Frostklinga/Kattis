@@ -1,0 +1,15 @@
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\bin\Debug\net7.0\StuckInATimeLoop.exe
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\bin\Debug\net7.0\StuckInATimeLoop.deps.json
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\bin\Debug\net7.0\StuckInATimeLoop.runtimeconfig.json
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\bin\Debug\net7.0\StuckInATimeLoop.dll
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\bin\Debug\net7.0\StuckInATimeLoop.pdb
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\StuckInATimeLoop.csproj.AssemblyReference.cache
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\StuckInATimeLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\StuckInATimeLoop.AssemblyInfoInputs.cache
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\StuckInATimeLoop.AssemblyInfo.cs
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\StuckInATimeLoop.csproj.CoreCompileInputs.cache
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\StuckInATimeLoop.dll
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\refint\StuckInATimeLoop.dll
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\StuckInATimeLoop.pdb
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\StuckInATimeLoop.genruntimeconfig.cache
+C:\Users\alkal\source\repos\Kattis\StuckInATimeLoop\obj\Debug\net7.0\ref\StuckInATimeLoop.dll

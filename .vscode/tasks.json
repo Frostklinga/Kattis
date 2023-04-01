@@ -4,30 +4,47 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Mono build",
-            "command": "csc",
+            "label": "Mono run",
             "type": "shell",
+            "command": "mono",
             "args": [
-                "${relativeFile}"
+                "${fileDirname}/Program.exe"
             ],
-            "problemMatcher": [],
+            "problemMatcher": [
+                "$msCompile"
+            ]
+        },
+        {
+            "label": "Mono build",
+            "type": "shell",
+            "command": "mono-csc",
+            "args": [
+                "${fileDirname}/Program.cs"
+            ],
+            "problemMatcher": "$msCompile",
             "group": {
                 "kind": "build",
                 "isDefault": true
             }
         },
         {
-            "label": "Mono launch (attach)",
-            "type": "shell",
+            "label": "monodebug",
+            "type": "process",
             "command": "mono",
             "args": [
                 "--debug",
-                "--debugger-agent=transport=dt_socket,server=y,address=127.0.0.1:55555",
-                "${relativeFile}"
+                "--debugger-agent=transport=dt_socket,server=y,address=localhost:55550",
+                //     "${fileDirname}/Program.exe"
+                "/workspaces/Kattis/BuildingHighways/Program.exe"
+                // ],
+                // "command": "echo",
+                // "args": [
+                //     "Testing tasks json"
             ],
             "problemMatcher": [
                 "$msCompile"
-            ]
+            ],
+            "suppressTaskName": true
         }
     ]
 }

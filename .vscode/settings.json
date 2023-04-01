@@ -1,5 +1,5 @@
 {
-    "mono-debug.exceptionOptions": {
-        "System.Exception": "always"
-    }
+    // "mono-debug.exceptionOptions": {
+    //     "System.Exception": "always",
+    // }
 }

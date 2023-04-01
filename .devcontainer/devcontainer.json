@@ -5,6 +5,10 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
+  // "postCreateCommand":
+  //   "bash -c chmod +x /workspaces/Kattis/postCreateScript.sh",[
+  //   "bash chmod +x /workspaces/Kattis/postCreateScript.sh",
+  // "bash -c 'chmod +x /workspaces/Kattis/postCreateScript.sh' && bash -c '/workspaces/Kattis/postCreateScript.sh'",
   "customizations": {
     "extensions": [
       "ms-vscode.mono-debug"
@@ -12,7 +16,6 @@
     "settings": {},
     "vscode": {
       "extensions": [
-        "csharpier.csharpier-vscode",
         "ms-dotnettools.csharp"
       ]
     }
@@ -26,6 +29,10 @@
       "version": "latest"
     },
     // "ghcr.io/devcontainers-contrib/features/wget-apt-get:1": {},
-    "ghcr.io/akhildevelops/devcontainer-features/apt:0": {}
+    "ghcr.io/akhildevelops/devcontainer-features/apt:0": {},
+    "ghcr.io/devcontainers/features/dotnet:1": {
+      "installUsingApt": true,
+      "version": "7"
+    }
   }
 }

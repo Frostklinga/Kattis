@@ -1,0 +1,15 @@
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ADifferentProblem.csproj.AssemblyReference.cache
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ADifferentProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ADifferentProblem.AssemblyInfoInputs.cache
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ADifferentProblem.AssemblyInfo.cs
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ADifferentProblem.csproj.CoreCompileInputs.cache
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\bin\Debug\net7.0\ADifferentProblem.exe
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\bin\Debug\net7.0\ADifferentProblem.deps.json
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\bin\Debug\net7.0\ADifferentProblem.runtimeconfig.json
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\bin\Debug\net7.0\ADifferentProblem.dll
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\bin\Debug\net7.0\ADifferentProblem.pdb
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ADifferentProblem.dll
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\refint\ADifferentProblem.dll
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ADifferentProblem.pdb
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ADifferentProblem.genruntimeconfig.cache
+C:\Users\alkal\source\repos\Kattis\ADifferentProblem\obj\Debug\net7.0\ref\ADifferentProblem.dll

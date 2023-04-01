@@ -1,16 +1,20 @@
 FROM mono:latest
-
-RUN apt-get update
-RUN apt-get install wget
-RUN wget https://packages.microsoft.com/config/debian/11/packages-microsoft-prod.deb -O packages-microsoft-prod.deb -P /tmp
-RUN dpkg -i /tmp/packages-microsoft-prod.deb
-RUN rm /tmp/packages-microsoft-prod.deb
+CMD ["export","PATH=$PATH:/root/.dotnet/"]
+# CMD ["apt", "update"]
+# CMD ["apt","install","wget"]
+# CMD ["wget", "-O /tmp/https://dot.net/v1/dotnet-install.sh", "-P /tmp/"]
+# CMD ["chmod","+x","/tmp/dotnet-install.sh"]
+# CMD ["bash","-c /tmp/dotnet-install.sh"]
+# export PATH=$PATH:/root/.dotnet/
+#RUN wget https://packages.microsoft.com/config/debian/11/packages-microsoft-prod.deb -O packages-microsoft-prod.deb -P /tmp
+#RUN dpkg -i /tmp/packages-microsoft-prod.deb
+#RUN rm /tmp/packages-microsoft-prod.deb
 # RUN wget https://dot.net/v1/dotnet-install.sh -P /tmp/
 # RUN chmod +x /tmp/dotnet-install.sh
 # RUN bash /tmp/dotnet-install.sh
 
 
-RUN mono --version
+#RUN mono --version
 # RUN msbuild MySolution.sln
 # RUN mono MyConsoleApp.exe
 
