@@ -23,5 +23,17 @@ namespace CD
         {
             Input = File.ReadAllLines(filename);
         }
+
+        public void ProcessInput()
+        {
+            foreach (string input in Input)
+            {
+                if(input.Split(" ").Length > 1) 
+                {
+                    var cdSetSize = input.Split(" ");
+
+                }
+            }
+        }
     }
 }

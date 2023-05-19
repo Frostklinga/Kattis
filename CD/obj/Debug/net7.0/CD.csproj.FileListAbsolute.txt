@@ -13,3 +13,9 @@ C:\Users\alkal\source\repos\Kattis\CD\obj\Debug\net7.0\refint\CD.dll
 C:\Users\alkal\source\repos\Kattis\CD\obj\Debug\net7.0\CD.pdb
 C:\Users\alkal\source\repos\Kattis\CD\obj\Debug\net7.0\CD.genruntimeconfig.cache
 C:\Users\alkal\source\repos\Kattis\CD\obj\Debug\net7.0\ref\CD.dll
+C:\Users\alkal\source\repos\Kattis\CD\bin\Debug\net7.0\Serilog.dll
+C:\Users\alkal\source\repos\Kattis\CD\obj\Debug\net7.0\CD.csproj.Fody.CopyLocal.cache
+C:\Users\alkal\source\repos\Kattis\CD\obj\Debug\net7.0\CD.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\alkal\source\repos\Kattis\CD\obj\Debug\net7.0\CD.csproj.CopyComplete
+C:\Users\alkal\source\repos\Kattis\CD\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\alkal\source\repos\Kattis\CD\bin\Debug\net7.0\Serilog.Sinks.Debug.dll

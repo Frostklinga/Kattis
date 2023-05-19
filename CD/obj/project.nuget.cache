@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "TK9c80SPh78UW9Kzg1nLbI7adrhQi/FQ7UgVGUb6rOAjErr8Y0M0pRiP1iRUQ3ky3iRsxC+oWbDpPLl2A7Z4jA==",
+  "dgSpecHash": "CA2nyvcJpZTBO5gclM+/XjM8wfVKULMIxA3YzLUPsBXvfCZc+gb/DivXOCYRTFTTAdfr41Suxo8VIkLdNGzn8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\alkal\\source\\repos\\Kattis\\CD\\CD.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alkal\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\alkal\\.nuget\\packages\\methodtimer.fody\\3.2.1\\methodtimer.fody.3.2.1.nupkg.sha512",
+    "C:\\Users\\alkal\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\alkal\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\alkal\\.nuget\\packages\\serilog.sinks.debug\\2.0.0\\serilog.sinks.debug.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

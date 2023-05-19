@@ -103,3 +103,7 @@ C:\Users\alkal\source\repos\Kattis\Tests\obj\Debug\net7.0\refint\Tests.dll
 C:\Users\alkal\source\repos\Kattis\Tests\obj\Debug\net7.0\Tests.pdb
 C:\Users\alkal\source\repos\Kattis\Tests\obj\Debug\net7.0\Tests.genruntimeconfig.cache
 C:\Users\alkal\source\repos\Kattis\Tests\obj\Debug\net7.0\ref\Tests.dll
+C:\Users\alkal\source\repos\Kattis\Tests\bin\Debug\net7.0\MethodTimer.dll
+C:\Users\alkal\source\repos\Kattis\Tests\bin\Debug\net7.0\Serilog.dll
+C:\Users\alkal\source\repos\Kattis\Tests\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\alkal\source\repos\Kattis\Tests\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
